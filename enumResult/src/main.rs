@@ -4,7 +4,7 @@
 // enum Result{
 //     OK(),     - same as Some in Option 
 //     err
-// }
+// }i 
 
 
 // the code below allows us to read some other file lets say file A 
